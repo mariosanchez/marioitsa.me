@@ -1,0 +1,15 @@
+{
+  "name": "aboutmariosanchez",
+  "version": "1.0.0",
+  "description": "Mario Sánchez's blog",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "author": "Mario Sánchez Manzano",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
