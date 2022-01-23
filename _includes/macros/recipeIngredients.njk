@@ -1,0 +1,10 @@
+{%- macro recipeIngredients(ingredients) -%}
+    <article>
+        <h2>Ingredientes:</h2>
+        <ul>
+        {%- for ingredient in ingredients -%}
+            <li>{{ ingredient }}</li>
+        {%- endfor -%}
+        </ul>
+    </article>
+{%- endmacro -%}
