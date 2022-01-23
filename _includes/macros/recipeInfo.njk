@@ -1,0 +1,19 @@
+{%- macro recipeInfo(rations, preparationTime) -%}
+    {%- if rations or preparationTime -%}
+    <article>
+        <ul>
+            {%- if rations or preparationTime -%}
+            <li>
+                <b>Raciones:</b> {{ rations }}
+            </li>
+            {%- endif -%}
+
+            {%- if rations or preparationTime -%}
+            <li>
+                <b>Tiempo de preparación:</b> {{ preparationTime }} min
+            </li>
+            {%- endif -%}
+        </ul>
+    </article>
+    {%- endif -%}
+{%- endmacro -%}
