@@ -30,7 +30,7 @@ layout: layouts/post.njk
 1. Cortamos la calabaza y el boniato en _mirepoix_ (trozos o cubos de 1-2 centímetros).
 1. Calentamos una sartén grande con aceite de oliva y cuando esté caliente añadimos los vegetales cortados, seguidamente salpimentamos ligeramente.
 1. Mientras se cocinan a fuego medio, calentamos una olla con nuestro caldo de verduras o agua con concentrado, agregándole otro litro o litro y medio de agua (según lo espesa o ligera que queramos la crema), a fuego fuerte para buscar la ebullición.
-1. Cuando el caldo esté ya hirviendo podemos incorporar la calabaza y el boniato, que ya se habrán cocinado ligeramente, y dejamos que se cocine durante 20 minutos.
+1. Cuando el caldo esté ya hirviendo podemos incorporar la calabaza y el boniato, que ya se habrán cocinado ligeramente. Bajamos un poco el fuego y dejamos que se cocine durante 20 minutos.
 1. Pasado ese tiempo licuamos con la batidora el contenido de la olla durante uno o dos minutos hasta que quede bien pasado.
 1. Añadimos la nuez de mantequilla (opcional) y la cucharadita de canela, que le dará un toque muy especial, y removemos bien hasta que quede bien disuelta.
 1. Corregimos sal y servimos.
