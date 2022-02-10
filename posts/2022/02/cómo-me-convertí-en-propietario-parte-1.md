@@ -1,7 +1,7 @@
 ---
 title: Cómo me convertí en propietario - Parte 1, Introducción
 description: Primer post de la serie donde explico mi experiencia comprando un inmueble
-date: 2022-01-16
+date: 2022-02-10
 tags:
   - vivencias personales
   - español
