@@ -63,3 +63,12 @@ Por lo demás, todo estaba bastante abierto en este punto. El listado de requisi
 - Entre Sabadell y Barcelona (más o menos).
 - Cerca de una estación de tren conectada con Barcelona.
 - En un barrio tranquilo.
+
+## Wrap up
+
+Para cerrar, un resumen rápido de lo que yo consideré importante en esta primera fase de "decisión":
+
+* Conocer minimamente el contexto, la situación economico-social, el mercado inmobiliario, el mercado financiero.
+* Conocer mis necesidades y las de mi pareja.
+
+A partir de ahí es donde tomamos una decisión con la que decidimos ir hacia adelante hasta el día de hoy.
