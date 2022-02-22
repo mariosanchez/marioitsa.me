@@ -16,6 +16,10 @@ En esta serie de post voy a contar un poco mi experiencia en la búsqueda de un 
 
 ## Empezando la búsqueda
 
+* presupuesto, como calcularlo
+* localidad, barrio
+* servicios
+
 ## La primera visita
 
 ## Estrechando el círculo
