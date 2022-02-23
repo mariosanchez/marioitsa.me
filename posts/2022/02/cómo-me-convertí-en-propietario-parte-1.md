@@ -26,7 +26,7 @@ Cómo digo, si lo planteas en solitario, a no ser que cobres un buen sueldo, vas
 
 Pero no creo que sea la norma, de hecho, si hacemos unos cálculos de chichinabo así rápidos: si el precio medio del alquiler en Barcelona está en unos 700 euros por un piso de unos 50 metros cuadrados y cobras unos 1500 euros al mes netos, estamos hablando de que sólo el alquiler te costaría algo más de un 45% de tus ingresos mensuales. Si usamos el criterio de los bancos a la hora de conceder o no una hipoteca, y asumimos que para vivir con comodidad financiera tus deudas no deben superar el 30-35% de tus ingresos, a mi por lo menos no me salen las cuentas.
 
-Si sois más o menos de mi quinta, seguro que algún familiar o conocido mayor os ha contado de cómo “en sus tiempos” se casaban, tenían hijos, compraban uno o dos coches, liquidaban la hipoteca en pocos años e incluso adquirían una segunda residencia (*Ok, boomer*).
+Si sois más o menos de mi quinta, seguro que algún familiar o conocido mayor os ha contado de cómo “en sus tiempos” se casaban, tenían hijos, compraban uno o dos coches, liquidaban la hipoteca en pocos años e incluso adquirían una segunda residencia (_Ok, boomer_).
 Bueno, tengo malas noticias, esto hace ya varios lustros que no es así. En buena parte porque los salarios hace tiempo que no suben conforme al precio de la vida en este país, y me refiero específicamente a mercados de bienes esenciales como es la vivienda que vuelve a estar en cifras muy similares a las que había antes de la crisis (aunque esto tiene truco, pero lo explicaré en post posteriores). Por cierto, recordemos que la vivienda [es un derecho constitucional](https://app.congreso.es/consti/constitucion/indice/titulos/articulos.jsp?ini=47&tipo=2#:~:text=Todos%20los%20espa%C3%B1oles%20tienen%20derecho,general%20para%20impedir%20la%20especulaci%C3%B3n.) en España.
 
 A esa vieja realidad también le quitamos los abusos de la banca a la hora de dar crédito a diestro y siniestro, y lo casquivana que era la gente a la hora de endeudarse, que eso… Pues tampoco. Ahora hay [leyes más duras](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3814) previniendo así ciertas prácticas poco éticas, (hipotecas infladas, cláusulas suelo, entre otra de las que no tengo constancia).
@@ -44,14 +44,14 @@ Pues bien, hace poco más de un año, mi pareja consiguió una muy perseguida es
 
 Tanto mi pareja como yo creo que somos ese tipo de personas que nos podemos considerar como "caseras", nos gusta hacer planes, salir y demás, pero necesitamos nuestro tiempo de estar en casa con nuestros hobbies, haciendo cosas juntos o simplemente no haciendo nada, es por eso que tener ese espacio. Podríamos habernos ido de alquiler y gastar los ahorros en otras cosas, es cierto, pero decidimos decantarnos por comprar e invertir nuestros ahorros en eso. El principal motivo es el valor que le damos los dos a ese espacio y la estabilidad que nos pedía el cuerpo en este sentido ¿Nos veíamos viviendo los próximos 10 años en el mismo sitio? La respuesta es: "probablemente sí", y si no recordemos que igual que se compran, los inmuebles también se venden, asumes riesgos que hay que tener en cuenta, pero la posibilidad está ahí.
 
-A esto le sumamos una pandemia y un confinamiento que nos tuvo encerrados en casa unos meses, que mezclados con un buen puñado de videos de [La Capital](https://www.youtube.com/channel/UCEwl20VxZ3AwOgiKMZtI1GQ) y mi descubrimiento del brisket, hicieron que para mí, tener un espacio exterior abierto (fuera patio o terraza) donde poder tener una barbacoa fuera un **must**. Como digo, esto no es solo cosa mía, es un viaje de dos, pero en esto avía consenso total y absoluto.
+A esto le sumamos una pandemia y un confinamiento que nos tuvo encerrados en casa unos meses, que mezclados con un buen puñado de videos de [La Capital](https://www.youtube.com/channel/UCEwl20VxZ3AwOgiKMZtI1GQ) y mi descubrimiento del brisket, hicieron que para mí, tener un espacio exterior abierto (fuera patio o terraza) donde poder tener una barbacoa fuera un **must**. Como digo, esto no es solo cosa mía, es un viaje de dos, pero en esto había consenso total y absoluto.
 
 Otro requisito que nos marcamos fue encontrar un sitio con al menos 3 habitaciones. Porque sin tener planes de ser más, tampoco queríamos que fuera una limitación si cambiabamos de idea a futuro y, por otro lado, con la llegada del teletrabajo ese espacio no nos iba a sobrar en cualquier caso.
 
 Sin duda, otro punto que teníamos bastante claro, era que no queríamos irnos muy lejos de donde ya estamos. Ella tiene la familia en Barcelona, yo en Sabadell, así que serían esos dos territorios en los que nos limitaríamos la búsqueda.
 
 Luego existían otras necesidades más individuales y que intentaríamos cubrir. Por ejemplo, siendo el teletrabajo una realidad, para mí tener una estación de tren cerca es algo que me da aporta la facilidad de poder desplazarme a Barcelona en poco tiempo.
-Ya con eso cubría el tener la seguridad de que si el tema de teletrabajar cambiaba del modo que fuera, conservaría la facilidad y la eficiencia a la hora de ir a *Barna*, mi gran *pain* laboral en los últimos 9-10 años.
+Ya con eso cubría el tener la seguridad de que si el tema de teletrabajar cambiaba del modo que fuera, conservaría la facilidad y la eficiencia a la hora de ir a _Barna_, mi gran _pain_ laboral en los últimos 9-10 años.
 
 Para mi pareja, existía la necesidad de vivir en un barrio más tranquilo, con menos afluencia de gente y coches. Cosa que yo también compartía en buena medida, aunque para mí no era algo tan vivo.
 
@@ -68,7 +68,7 @@ Por lo demás, todo estaba bastante abierto en este punto. El listado de requisi
 
 Para cerrar, un resumen rápido de lo que yo consideré importante en esta primera fase de "decisión":
 
-* Conocer mínimamente el contexto, la situación económico-social, el mercado inmobiliario, el mercado financiero.
-* Conocer mis necesidades y las de mi pareja.
+- Conocer mínimamente el contexto, la situación económico-social, el mercado inmobiliario, el mercado financiero.
+- Conocer mis necesidades y las de mi pareja.
 
 A partir de ahí es donde tomamos una decisión con la que decidimos ir hacia adelante hasta el día de hoy.
