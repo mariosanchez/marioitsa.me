@@ -34,7 +34,7 @@ En el post anterior ya hablamos de que uno los temas importantes a la hora de co
   - Restaurantes, si eres un sibarita y te gusta comer fuera a menudo.
   - Escuelas, si tienes hijos o piensas en tenerlos.
   - Gimnasio, si te gusta hacer deporte habitualmente.
-- Las características de la vivienda, como por ejemplo:
+- Las características de la vivienda, ejemplos:
   - Equipación, como aire acondicionado, calefacción de gas, ventanas de aluminio, hogar, barbacoa de obra.
   - Espacios exteriores, como balcones, terrazas o jardines.
   - Espacios comunes, típico en comunidades grandes, como piscina, gimnasio, pista de pádel, lavandería.
@@ -62,8 +62,9 @@ Entonces, creo que es importante conocer de cuanto dinero disponemos y cuanto es
 
 Al lío, a como se calcula la dichosa cifra, como diría el amigo Linus Torvald: "talk is cheap, show me the code". Vamos a hacer un ejercicio de imaginación:
 
-Imaginemos por un momento que después de años de sangre, sudor, lágrimas y una dieta basada en Doritos y RedBull he ahorrado 60.000€ (disclaimer: me estoy inventando las cifras). Esto ya es una linea roja que no vamos poder rebasar, porque por más que quiera gastar más no podemos gastar más porque no tenemos más.
-Aquí viene el primer nodo de divergencia, el primer aspecto que tendremos que decidir. En mi caso vi varios caminos, entre ellos:
+Imaginemos por un momento que después de años de sangre, sudor, lágrimas y una dieta basada en Doritos y RedBull he ahorrado 60.000€ (disclaimer: me estoy inventando las cifras) que puedo y quiero dedicar íntegramente a la compra. Esto ya es una linea roja que me pongo y no voy a rebasar.
+Es inteligente que no sea el 100% de nuestro ahorro, por tener un colchón, una contención para imprevistos.
+A partir de aquí viene el primer nodo de divergencia, el primer aspecto que tendremos que decidir. En mi caso vi varios caminos, entre ellos:
 
 - Seguir ahorrando, eventualmente esto lo podría hacer _ad eternum_, obviamente el valor del dinero cambia, la inflación, etc, etc. No sería realista ahorrar hasta poder comprar una casa al lado de la de Gerard Piqué por decir algo, tampoco creo que lo sea ahorrar hasta comprar sin financiación (aunque, bueno, si el tiempo no es un problema...), pero sí hasta incrementar mi capital, y con ello mi capacidad de compra, lo suficiente para optar a otras opciones que cubran mis necesidades. Esta opción claro será siempre si puedo y quiero esperar mucho más.
 
@@ -77,9 +78,58 @@ En el primer caso, lo que estoy haciendo es descapitalizarme completamente (sin 
 
 En el segundo caso, me descapitalizaré hasta donde el banco me pida. Por ejemplo, si nos financian al 80%, el 20% del precio del inmueble o si es al 100% pues nada... el banco lo pone todo, y te cobrará intereses por todo, claro. El resto lo podré invertir en otra cosa o seguir ahorrando.
 
-¿Cuándo tiene sentido descapitalizarme totalmente? Pues por ejemplo, si la vivienda que voy a comprar es obra nueva o está en muy buen estado. Necesitaré dinero para muebles y demás, pero podré entrar a vivir y la hipoteca será más llevadera, ya entraremos en detalle cuando hablemos de hipotecas, si esto da para rato...
+¿Cuándo puede tener sentido descapitalizarme totalmente? Pues por ejemplo, si la vivienda que voy a comprar es obra nueva o está en muy buen estado. Necesitaré dinero para muebles y demás, pero podré entrar a vivir y la hipoteca será más llevadera, ya entraremos en detalle cuando hablemos de hipotecas, si esto da para rato...
 
-¿Cuándo tiene sentido guardar dinero y que le banco me financie más? Pues cuando tenga un proyecto de reforma... O algún plan
+¿Cuándo puede tener sentido guardar dinero y que le banco me financie más? Pues cuando tenga un proyecto de reforma, si la casa es de segunda mano y es vieja o quiero dejarla a mi gusto, o algún plan para invertir ese dinero o sacarle rentabilidad de algún modo. En este caso, claro, nuestra quota de hipoteca va a subir.
+
+En mi caso una cosa era clara, no estaba acumulando dinero porque sí, pues tenía muy claro que el dinero en el banco estaba devaluándose constantemente.
+
+Una vez me decida por una de las dos opciones, sabré con que porción de mi dinero cuento para la entrada independientemente de la financiación a la que aspire.
+
+Para este caso, vamos a poner por ejemplo que elijo descapitalizarme al 100%, y que aspiro a que sea una entrada del 20% para que el banco me financia el 80%.
+
+Esto quiere decir que:
+
+> Si tengo 60.000€
+>
+> Y esto es el 20% del total de inmueble
+>
+> Puedo aspirar a una vivienda de un valor de (60.000 x 100) / 20 = 300.000€
+
+¿Verdad? ¡No! Error ¿Y los impuestos? ¿Y los gastos hipotecarios y notariales? ¿Y la tasación? Y... ¡Ay! Insensata, tu que con ese ahorro creías que podrías comprarte aquel piso tan chulo de obra nueva que parecía tan barato en los anuncios.
+
+Cuando veas precios en anuncios acabarás por desarrollar un calculo mental de cuanto tienes que añadirle al precio que ves, porque todos los precios no contemplan ni iba ni gastos asociados a la compra.
+
+Este sobrecoste va a variar en base a diversas cosas, entre ellas:
+
+- La comunidad autónoma en la que se encuentre la vivienda, pues varían los impuestos y tasas de unas a otras (spoiler, Cataluña es de las más caras).
+- Si la vivienda es obra nueva (donde aplicamos el IVA) o usada (donde se aplica el ITP, impuesto de transmisiones patrimoniales).
+- Si la vivienda es de protección oficial, en cuyo caso pagaríamos menos impuestos, sea obra nueva o usada.
+- La edad y la renta que tengas. En Cataluña por ejemplo, para personas [menores de 32 con una renta de hasta 30.000€](https://atc.gencat.cat/ca/tributs/itpajd/tpo/tarifes-tipus/) el ITP se te reduce a la mitad. De hecho una cosa chula que aprendí, es que si la compra la haces entre dos y una persona cumple pero la otra no al menos te aplican la mitad de este beneficio al porcentaje.
+
+Te recomiendo que te informes bien de ésta parte para poder tener claros todos tus derechos y obligaciones, ésto te va a evitar muchas desilusiones futuras.
+
+Siguiendo con el ejemplo, voy a usar el caso de Cataluña, que es el que mejor conozco, donde tendríamos que sumar al precio del inmueble más o menos un 13% (por hacerlo fácil).
+
+Entonces si volvemos a calcular:
+
+> Si tengo 60.000€
+>
+> Y esto es el 20% del total de inmueble
+>
+> Teniendo en cuenta que he de contar con un 13% del precio de la vivienda para cubrir costes, si he visto una vivienda de 220.000 que me gusta sé que tendré que contar con ~28.000€ además de la entrada.
+>
+> Si el 20% de 220.000 son 44.000€
+>
+> Y 44.000 + 28.000 son 72.000€ sabré que ese inmueble está fuera de mi presupuesto
+
+Esto ya nos complica un poco más tener claridad de cuanto dinero podemos invertir, porque dependemos del precio de la vivienda, pero una vez hagamos el cálculo unas cuantas veces enseguida sabremos si para un precio concreto estamos dentro o fuera de nuestro presupuesto.
+
+Ésto también nos va a ayudar a revaluar nuestra estrategia inicial si fuera necesario. Entender hasta cuanto el banco nos puede financiar, si tenemos otras opciones, si preferimos seguir ahorrando... Cuanta más claridad tengamos sobre este punto más fácil nos será tomar las decisiones necesarias.
+
+Mi conclusión es que el presupuesto tampoco puede ser una cifra muy rígida a lo largo del proceso de búsqueda, pues hay muchos factores que pueden afectarla. Amoldar nuestra estrategia en base a la información que tengamos puede ser algo muy conveniente.Obviamente hay ciertas fronteras que no vamos a querer o poder traspasar, pero es bueno conocer las alternativas para poder conseguir optar a la vivienda que cubra mejor nuestras necesidades teniendo en cuenta nuestras limitaciones.
+
+Dicho esto, creo que es un ejercicio necesario y beneficioso calcular más o menos nuestro presupuesto inicial, ya que nos va a servir de punto de partida.
 
 ## La primera visita
 
