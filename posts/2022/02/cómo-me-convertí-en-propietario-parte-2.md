@@ -14,26 +14,26 @@ En esta serie de post voy a contar un poco mi experiencia en la búsqueda de un 
 
 ---
 
-Puedo decir que llevo ya varios años rebuscando en el mercado inmobiliario. No con una intención de comprar, o no con una intención real, pero sí entendiendo como funciona. Al mismo tiempo viendo como los precios evolucionaban en el tiempo ante mi mirada incrédula y muy a mi pesar.
+Puedo decir que llevo ya varios años rebuscando en el mercado inmobiliario. No con una intención de comprar, o no con una intención real, pero sí entendiendo como funciona y a la vez, observando como los precios evolucionaban con el tiempo ante mi mirada incrédula y muy a mi pesar.
 
-Esto no es casualidad, ya que trabajo desde 2018 en una empresa, Lifull Connect, dedicada a agregación de anuncios entre ellos inmobiliarios y que desde la pandemia ha hecho del _real estate_ su gran apuesta de negocio, así que por trabajo ya me toca. Al mismo tiempo desde hace años con mi amigo Aitor fantaseábamos con hacernos una par de [casas pasivas](https://es.wikipedia.org/wiki/Passivhaus), por lo que además de inmuebles también he mirado muchos terrenos.
+Esto no es casualidad, ya que trabajo desde 2018 en una empresa, Lifull Connect, dedicada a agregación de anuncios, entre ellos inmobiliarios, y que desde la pandemia ha hecho del _real estate_ su gran apuesta de negocio, así que por trabajo ya me toca. Al mismo tiempo desde hace años con mi amigo Aitor fantaseábamos con hacernos una par de [casas pasivas](https://es.wikipedia.org/wiki/Passivhaus), por lo que además de inmuebles también he mirado muchos terrenos.
 
-Puedo decir que llevo un tiempo entrenando el tema de la búsqueda, familiarizándome con la terminología, el mercado... Pero hasta que no tomé la decisión de dar el paso, no empecé a desarrollar un método más efectivo. En esta ocasión voy a sintetizar como fue este proceso para mí y que tuve en cuenta.
+Puedo decir que llevo un tiempo entrenando el tema de la búsqueda, familiarizándome con la terminología, el mercado... Pero hasta que no tomé la decisión de dar el paso, no empecé a desarrollar un método más efectivo. En esta ocasión voy a intentar sintetizar como fue este proceso para mí y qué tuve en cuenta.
 
 ## Preparando el terreno
 
 En el post anterior ya hablamos de que uno los temas importantes a la hora de comprar una vivienda es tener claras nuestras necesidades y expectativas, y estas van a ser la base de nuestra búsqueda. De estas podemos sacar aspectos como:
 
 - La ubicación, como sería:
-  - La localidad o localidades que quieres tener en cuenta, si buscas un pueblo pequeño, una gran ciudad o algo en algún punto entre medias. Si quieres que esté en el interior o en la costa. El entorno que buscas, boscoso, montañoso, yo qué sé...
-  - El tipo barrio que buscas, si quieres una zona más residencial o más céntrica, más tranquila o con más movimiento de personas, coches, etc.
+  - La localidad o localidades que quieres tener en cuenta. Si buscas un pueblo pequeño, una gran ciudad o algo a caballo de esas dos opciones. Si quieres que esté en el interior o en la costa. El entorno que buscas, boscoso, montañoso, yo qué sé...
+  - El tipo barrio que buscas. Si quieres una zona más residencial o más céntrica, más tranquila o con más movimiento de personas, coches, etc.
   - O incluso comunidad autónoma, país... Ya cada uno/a, pero ahí ya no os puedo ayudar, me temo.
 - Servicios o puntos de interés cercanos como por ejemplo:
-  - Estación de tren, si trabajas en otra ciudad y quieres ir en transporte público.
-  - Acceso cercano a una autopista, si vas a visitar a familiares a menudo en a tu ciudad natal.
-  - Restaurantes, si eres un sibarita y te gusta comer fuera a menudo.
-  - Escuelas, si tienes hijos o piensas en tenerlos.
-  - Gimnasio, si te gusta hacer deporte habitualmente.
+  - Estación de tren. Si trabajas en otra ciudad y quieres ir en transporte público.
+  - Acceso cercano a una autopista. Si vas a visitar a familiares a menudo en a tu ciudad natal.
+  - Restaurantes. Si eres un sibarita y te gusta comer fuera a menudo.
+  - Escuelas. Si tienes hijos o piensas en tenerlos.
+  - Gimnasio. Si te gusta hacer deporte habitualmente o quieres tener pocas escusas para no ir.
 - Las características de la vivienda. Ejemplos:
   - Equipación, como aire acondicionado, calefacción de gas, ventanas de aluminio, hogar, barbacoa de obra.
   - Espacios exteriores, como balcones, terrazas o jardines.
@@ -42,11 +42,11 @@ En el post anterior ya hablamos de que uno los temas importantes a la hora de co
   - Otras características, como vistas a la naturaleza o al mar, espacios abiertos, en fin, lo que se nos ocurra que queramos.
   - Por supuesto habitaciones y baños.
 
-Aparte de esas necesidades es importante entender nuestras limitaciones, aquellos factores que nos va a dar las fronteras de a que podemos y a que nos podemos optar, y que conocerlas nos va a ayudar a valorar mejor los pros y contras, los _tradeoffs_ (palabreja que nos gusta usar a los programadores), de las diferentes opciones con las que nos vayamos encontrando, y decidir que peso le damos a cada característica en cada caso. Yo tuve en cuenta varios factores en este sentido, entre ellos:
+Aparte de esas necesidades es importante entender nuestras limitaciones, aquellos factores que nos va a dar las fronteras de a que podemos y a que nos podemos optar. Conocerlas nos va a ayudar a valorar mejor los pros y contras, los _tradeoffs_ (palabreja que nos gusta usar a los programadores), de las diferentes opciones con las que nos vayamos encontrando, y decidir que peso le damos a cada característica en cada caso. Yo tuve en cuenta varios factores en este sentido, entre ellos:
 
 - El presupuesto con el que contamos, más adelante entraré en detalle de cómo calcularlo de manera más precisa, pero de seguro tienes alguna cifra en mente.
 - Gastos periódicos que nos puede incurrir: hipoteca (y con ello nuestra capacidad de endeudamiento o hasta donde estamos dispuestos a endeudarnos), comunidad, suministros, etc.
-- Mantenimiento, cuanto tiempo o dinero nos va a costar mantener la vivienda a título personal. Por ejemplo, una casa con un jardín muy grande nos va a pedir mucho tiempo para mantenerlo limpio y arreglado o contratar a alguien para que lo haga por nosotros, tiempo y dinero pueden ser recursos valiosos a tener en cuenta.
+- Mantenimiento, cuanto tiempo o dinero nos va a costar mantener la vivienda a título personal. Por ejemplo, una casa con un jardín muy grande nos va a pedir mucho tiempo para mantenerlo limpio y arreglado o contratar a alguien para que lo haga por nosotros. Tiempo y dinero pueden ser recursos valiosos a tener en cuenta.
 
 Pensar en cuáles son nuestras necesidades y limitaciones y hacer un listado de ellas puede ser un buen primer ejercicio para entender mejor qué estamos buscando, aunque es posible que en este punto no lo sepamos del todo es una buena reflexión que nos puede ayudar a empezar la búsqueda.
 
@@ -98,7 +98,7 @@ Esto quiere decir que:
 
 ¿Verdad? ¡No! Error ¿Y los impuestos? ¿Y los gastos hipotecarios y notariales? ¿Y la tasación? Y... ¡Ay! Insensata, tú que con ese ahorro creías que podrías comprarte aquel piso tan chulo de obra nueva que parecía tan barato en los anuncios.
 
-Cuando veas precios en anuncios acabarás por desarrollar un cálculo mental de cuanto tienes que añadirle al precio que ves, porque todos los precios no contemplan ni iba ni gastos asociados a la compra.
+Cuando veas precios en anuncios acabarás por desarrollar un cálculo mental de cuanto tienes que añadirle al precio que ves, porque todos los precios no contemplan ni impuestos ni gastos asociados a la compra.
 
 Este sobrecoste va a variar basándonos en diversas cosas, entre ellas:
 
@@ -154,7 +154,7 @@ Estos tres portales, cada uno con sus más y sus menos, tienen las funcionalidad
 - Definir zonas concretas bien delimitadas. Fotocasa e Idealista incluso permiten dibujar una zona en el mapa, superfeature, superútil en mi caso.
 - Poder guardar en favoritos los inmuebles que más me interesaban. Es especialmente útil si queremos ponernos en contacto con el vendedor en otro momento o compartirlo con alguien para pedir opinión. Además, suelen alertar de cambios en esos anuncios como bajadas de precio.
 
-A parte de las alertas desarrollé una rutina de hacer un barrido a 2 o 3 búsquedas concretas en estos portales cada día. Creedme, cada día hay anuncios nuevos que potencialmente te pueden interesar. No obstante si te saturas... Deja de hacerlo na tiempo, el mercado se mueve constantemente, no te agobies, habrá otras oportunidades y ya darás con una que te encarge.
+A parte de las alertas desarrollé una rutina de hacer un barrido a 2 o 3 búsquedas concretas en estos portales cada día. Creedme, cada día hay anuncios nuevos que potencialmente te pueden interesar. No obstante si te saturas... Deja de hacerlo un tiempo, el mercado se mueve constantemente, no te agobies, habrá otras oportunidades y ya darás con una que te encarge.
 
 Conforme vayas viendo decenas y decenas de anuncios, también tus necesidades irán cambiando e irás descubriendo algunas que no sabías que eran importantes para ti, otras quizá perderán peso. Como digo, es un proceso fluido. Lo que más impactará en esto serán las visitas a inmuebles. Personalmente, en mi opinión, cuanto antes visites la primera casa o piso que te medio encaje antes ganarás información de valor.
 
@@ -179,7 +179,7 @@ Te recomiendo que revises tu sistema de búsqueda constantemente e intentes opti
 
 Si agotas las ofertas o anuncios de una zona que es interesante para ti siempre puede volver a tus segundas opciones, quizá encuentre algo con unas características que te merezca la pena valorar o un precio que te habrá opciones, como una reforma que no podrías permitirte de otro modo.
 
-Cuando visites una casa que no te interese finalmente, si la agente inmobiliaria o API que te la ha enseñado te da buena confianza también puedes hablarle de lo que buscas y decirle que te contacte si tiene algo de esas características, a veces por ahí puede sonar la flauta. Yo visité algunas de mis principales opciones de este modo. Si
+Cuando visites una casa que no te interese finalmente, si la agente inmobiliaria o API que te la ha enseñado te da buena confianza también puedes hablarle de lo que buscas y decirle que te contacte si tiene algo de esas características, a veces por ahí puede sonar la flauta. Yo visité algunas de mis principales opciones de este modo.
 
 En fin, creo que cada caso es muy particular, esto son solo algunos puntos que yo practiqué y considero que no me fueron mal. Yo no contaba con el detalle del presupuesto, iba un poco a ciegas en eso, así que si has llegado hasta aquí de seguro que tienes más información que yo en su día.
 
