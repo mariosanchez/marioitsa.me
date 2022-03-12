@@ -26,11 +26,11 @@ En el post anterior ya hablamos de que uno los temas importantes a la hora de co
 
 - La ubicación, como sería:
   - La localidad o localidades que quieres tener en cuenta. Si buscas un pueblo pequeño, una gran ciudad o algo a caballo de esas dos opciones. Si quieres que esté en el interior o en la costa. El entorno que buscas, boscoso, montañoso, yo qué sé...
-  - El tipo barrio que buscas. Si quieres una zona más residencial o más céntrica, más tranquila o con más movimiento de personas, coches, etc.
+  - El tipo de barrio que buscas. Si quieres una zona más residencial o más céntrica, más tranquila o con más movimiento de personas, coches, etc.
   - O incluso comunidad autónoma, país... Ya cada uno/a, pero ahí ya no os puedo ayudar, me temo.
 - Servicios o puntos de interés cercanos como por ejemplo:
   - Estación de tren. Si trabajas en otra ciudad y quieres ir en transporte público.
-  - Acceso cercano a una autopista. Si vas a visitar a familiares a menudo en a tu ciudad natal.
+  - Acceso cercano a una autopista. Si vas a visitar a familiares a menudo en tu ciudad natal.
   - Restaurantes. Si eres un sibarita y te gusta comer fuera a menudo.
   - Escuelas. Si tienes hijos o piensas en tenerlos.
   - Gimnasio. Si te gusta hacer deporte habitualmente o quieres tener pocas escusas para no ir.
@@ -48,7 +48,7 @@ Aparte de esas necesidades es importante entender nuestras limitaciones, aquello
 - Gastos periódicos que nos puede incurrir: hipoteca (y con ello nuestra capacidad de endeudamiento o hasta donde estamos dispuestos a endeudarnos), comunidad, suministros, etc.
 - Mantenimiento, cuanto tiempo o dinero nos va a costar mantener la vivienda a título personal. Por ejemplo, una casa con un jardín muy grande nos va a pedir mucho tiempo para mantenerlo limpio y arreglado o contratar a alguien para que lo haga por nosotros. Tiempo y dinero pueden ser recursos valiosos a tener en cuenta.
 
-Pensar en cuáles son nuestras necesidades y limitaciones y hacer un listado de ellas puede ser un buen primer ejercicio para entender mejor qué estamos buscando, aunque es posible que en este punto no lo sepamos del todo es una buena reflexión que nos puede ayudar a empezar la búsqueda.
+Pensar en cuáles son nuestras necesidades y limitaciones y hacer un listado de ellas puede ser un buen primer ejercicio para entender mejor qué estamos buscando, aunque es posible que en este punto no lo sepamos del todo, es una buena reflexión que nos puede ayudar a empezar la búsqueda.
 
 Un punto importante es que nos tomemos nuestro tiempo para entender esto y al mismo tiempo no es necesario obsesionarse con querer entender todo ahora. Buscar una vivienda no son los cien metros lisos, es más bien como completar un laberinto donde puede que encuentres rápido la salida o que tarde un tiempo. Lo fundamental es tener un buen sistema, refinarlo y no tener prisa.
 
@@ -80,13 +80,13 @@ En el segundo caso, me descapitalizaré hasta donde el banco me pida. Por ejempl
 
 ¿Cuándo puede tener sentido descapitalizarme totalmente? Pues por ejemplo, si la vivienda que voy a comprar es obra nueva o está en muy buen estado. Necesitaré dinero para muebles y demás, pero podré entrar a vivir y la hipoteca será más llevadera, ya entraremos en detalle cuando hablemos de hipotecas, si esto da para rato...
 
-¿Cuándo puede tener sentido guardar dinero y que le banco me financie más? Pues cuando tenga un proyecto de reforma, si la casa es de segunda mano y es vieja o quiero dejarla a mi gusto, o algún plan para invertir ese dinero o sacarle rentabilidad de algún modo. En este caso, claro, nuestra cuota de hipoteca va a subir.
+¿Cuándo puede tener sentido guardar dinero y que el banco me financie más? Pues cuando tenga un proyecto de reforma, si la casa es de segunda mano y es vieja o quiero dejarla a mi gusto, o algún plan para invertir ese dinero o sacarle rentabilidad de algún modo. En este caso, claro, nuestra cuota de hipoteca va a subir.
 
 En mi caso una cosa era clara, no estaba acumulando dinero porque sí, pues tenía muy claro que el dinero en el banco estaba devaluándose constantemente.
 
 Una vez me decida por una de las dos opciones, sabré con qué porción de mi dinero cuento para la entrada independientemente de la financiación a la que aspire.
 
-Para este caso, vamos a poner por ejemplo que elijo descapitalizarme al 100%, y que aspiro a que sea una entrada del 20% para que el banco me financia el 80%.
+Para este caso, vamos a poner por ejemplo que elijo descapitalizarme al 100%, y que aspiro a que sea una entrada del 20% para que el banco me financie el 80%.
 
 Esto quiere decir que:
 
@@ -105,7 +105,7 @@ Este sobrecoste va a variar basándonos en diversas cosas, entre ellas:
 - La comunidad autónoma en la que se encuentre la vivienda, pues varían los impuestos y tasas de unas a otras (spoiler, Cataluña es de las más caras).
 - Si la vivienda es obra nueva (donde aplicamos el IVA) o usada (donde se aplica el ITP, impuesto de transmisiones patrimoniales).
 - Si la vivienda es de protección oficial, en cuyo caso pagaríamos menos impuestos, sea obra nueva o usada.
-- La edad y la renta que tengas. En Cataluña, por ejemplo, para personas [menores de 32 con una renta de hasta 30.000€](https://atc.gencat.cat/ca/tributs/itpajd/tpo/tarifes-tipus/) el ITP se te reduce a la mitad. De hecho una cosa chula que aprendí, es que si la compra la haces entre dos y una persona , pero la otra no al menos te aplican la mitad de este beneficio al porcentaje.
+- La edad y la renta que tengas. En Cataluña, por ejemplo, para personas [menores de 32 con una renta de hasta 30.000€](https://atc.gencat.cat/ca/tributs/itpajd/tpo/tarifes-tipus/) el ITP se te reduce a la mitad. De hecho una cosa chula que aprendí, es que si la compra la haces entre dos y una persona cumple los requisitos pero la otra no, el descuento se aplica para una de las partes, pagando un 7,5 de impuestos en vez del 10.
 
 Te recomiendo que te informes bien de esta parte para poder tener claros todos tus derechos y obligaciones, esto te va a evitar muchas desilusiones futuras.
 
@@ -141,7 +141,7 @@ Dicho esto, creo que es un ejercicio necesario y beneficioso calcular más o men
 
 ## La búsqueda
 
-En este punto ya deberíamos tener información más que suficiente y de sobra para empezar nuestra búsqueda, de hecho no pospondría este paso a tenerla, pero me va bien para la narrativa del post :p
+En este punto ya deberíamos tener información más que suficiente y de sobra para empezar nuestra búsqueda, de hecho no pospondría este paso en caso de no tenerla, pero me va bien para la narrativa del post :p
 
 Yo personalmente no acudí a inmobiliarias o API o similar, me refiero a ir a la típica oficina de tu barrio, a preguntar por casas y tener una conversación con alguien que te asesore, por lo que no puedo hablar ni bien ni mal de eso.
 
@@ -164,20 +164,20 @@ Las primeras visitas son un antes y un después en el proceso de búsqueda. Para
 
 Además, visitar los inmuebles te va a descubrir muchas cosas que no sabías. Por ejemplo de repente podrías estar en un patio enorme y sentir que eso es realmente importante para ti y que otras cosa en comparación no lo eran tanto, y aunque no acabes comprando ese inmueble tu búsqueda a partir de ahora será más efectiva, más precisa y más fiel a lo que quieres, y eso es lo más relevante.
 
-Cuando vayas viendo anuncios que te encajen no recomiendo esperar mucho a contactar con el vendedor, no pierdes nada, no hay compromiso alguno y te dará un buen entrenamiento de cara a en que cosas fijarte y qué preguntar, sentir el feeling, "¿Me veo viviendo aquí?". Esto incluso puede darte una ventaja respecto a otras potenciales compradoras si los hubiera.
+Cuando vayas viendo anuncios que te encajen no recomiendo esperar mucho a contactar con el vendedor, no pierdes nada, no hay compromiso alguno y te dará un buen entrenamiento para saber en que cosas fijarte y qué preguntar, sentir el feeling, "¿Me veo viviendo aquí?". Esto incluso puede darte una ventaja respecto a otras potenciales compradoras si los hubiera.
 
 Si tras la primera visita te sigue interesando: revisa las cosa que te han generado dudas o que habías olvidado preguntar por si necesitas pedir una segunda visita, tal vez hay que reformar y quieres ir con un paleta; pasear por la zona a diferentes horas para ver el ambiente; Habla con las vecinas si existe esa posibilidad.
 Es un buen momento para ver si tenemos argumentos para rebajar el precio. En fin es un periodo de reflexión, donde si realmente te interesa también tendrás cierto miedo de que te lo puedan quitar, especialmente si te ha pasado otras veces, pero mente fría. Tampoco quiero hacer de esto un compendio de consejos de comprar viviendas, creo que para eso hay libros que lo explican mucho mejor y al detalle<sup>1</sup>, solo son algunos ejemplos de cosas que yo quizá haría.
 
-Puede que en algunos casos haya otras compradoras, y si realmente te interesa el riesgo de que te la quiten está ahí. Mente fría, valora como cuanto te interesa, no te dejes llevar por la presión, es mucho dinero lo que vas a invertir, si es la casa de tus sueños a por ella, si no pues calma, saldrán otras. El mercado inmobiliario está en un estado mucho más loco de lo que yo hubiera imaginado cuando entré en él, lo cierto es que las buenas ofertas vuelan y hay muchos más interesados de los que creía en un inicio. Mi consejo es que no te dejes llevar por esa impresión si también te ocurre, y no te desanimes si te interesa alguna oferta y no acaba saliendo adelante, es algo que puede pasar, como digo habrá otras ocasiones.
+Puede que en algunos casos haya otras compradoras, y si realmente te interesa el riesgo de que te la quiten está ahí. Mente fría, valora cuanto te interesa, no te dejes llevar por la presión, es mucho dinero lo que vas a invertir, si es la casa de tus sueños a por ella, si no pues calma, saldrán otras. El mercado inmobiliario está en un estado mucho más loco de lo que yo hubiera imaginado cuando entré en él, lo cierto es que las buenas ofertas vuelan y hay muchos más interesados de los que creía en un inicio. Mi consejo es que no te dejes llevar por esa impresión si también te ocurre, y no te desanimes si te interesa alguna oferta y no acaba saliendo adelante, es algo que puede pasar, como digo habrá otras ocasiones.
 
 ## Estrechando el círculo
 
-Como digo, conforme más busques y más casas visites más información tendrás y más redondearás lo que quieres. Habrá opciones que las descartarás por completo, otras nuevas que saldrán.
+Como digo, conforme más busques y más casas visites, más información tendrás y más redondearás lo que quieres. Habrá opciones que las descartarás por completo, otras nuevas que saldrán.
 
 Te recomiendo que revises tu sistema de búsqueda constantemente e intentes optimizarlo de modo que cada vez inviertas menos tiempo en cosas que no te interesan. Para eso valida constantemente tus prioridades y elimina alertas o búsquedas predefinidas que ya no te interesen, adáptalas a tu realidad actual.
 
-Si agotas las ofertas o anuncios de una zona que es interesante para ti siempre puede volver a tus segundas opciones, quizá encuentre algo con unas características que te merezca la pena valorar o un precio que te habrá opciones, como una reforma que no podrías permitirte de otro modo.
+Si agotas las ofertas o anuncios de una zona que es interesante para ti siempre puede volver a tus segundas opciones, quizá encuentre algo con unas características que te merezca la pena valorar o un precio que te abra opciones, como una reforma que no podrías permitirte de otro modo.
 
 Cuando visites una casa que no te interese finalmente, si la agente inmobiliaria o API que te la ha enseñado te da buena confianza también puedes hablarle de lo que buscas y decirle que te contacte si tiene algo de esas características, a veces por ahí puede sonar la flauta. Yo visité algunas de mis principales opciones de este modo.
 
