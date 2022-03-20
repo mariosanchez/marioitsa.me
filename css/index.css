@@ -256,5 +256,6 @@ a[href].direct-link:focus:visited,
 }
 
 .post__main-image {
-  height: 350px;
+  max-height: 350px;
+  max-width: 100%;
 }
