@@ -23,7 +23,7 @@ Transcripción de la [receta de Andrea Cannata](https://www.youtube.com/watch?v=
   "medio litro de agua muy fría (casi congelada, que diría Andrea)",
   "6gr de levadura fresca",
   "13gr de sal",
-  "aceite (opcional)",
+  "aceite (opcional)"
 ])}}
 
 ## Pasos:
