@@ -1,7 +1,6 @@
 ---
 title: Masa de pizza
-mainImage: https://res.cloudinary.com/dhtvyrgkh/image/upload/c_scale,q_auto:eco,w_2914/v1647797449/ternera%20deshilachada.jpg
-description: Receta de ternera deshilachada hecha con olla lenta para tacos y arepas
+description: Receta italiana de masa de pizza
 date: 2022-04-13
 tags:
   - recetas
