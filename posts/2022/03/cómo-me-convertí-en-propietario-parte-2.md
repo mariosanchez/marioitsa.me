@@ -1,6 +1,6 @@
 ---
 title: Cómo me convertí en propietario - Parte 2, La búsqueda
-description: Primer post de la serie donde explico mi experiencia comprando un inmueble
+description: Segundo post de la serie donde explico mi experiencia comprando un inmueble
 date: 2022-03-11
 tags:
   - vivencias personales
@@ -193,3 +193,5 @@ En fin, creo que cada caso es muy particular, esto son solo algunos puntos que y
 - Revisa tu sistema de búsqueda constantemente, descarta lo que ya no te interesa, no pierdas tiempo, elimina _waste_, actualízalo con tus necesidades actuales.
 
 1. Mi compañero Jaime Llorente me recomendó _ACIERTA al comprar VIVIENDA: Guía práctica con consejos, sugerencias y advertencias de un ex-agente inmobiliario_, por si tenéis curiosidad.
+
+[Link a la parte 1](/posts/2022/02/cómo-me-convertí-en-propietario-parte-1/)

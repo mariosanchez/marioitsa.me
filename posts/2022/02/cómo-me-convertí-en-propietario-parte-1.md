@@ -72,3 +72,5 @@ Para cerrar, un resumen rápido de lo que yo consideré importante en esta prime
 - Conocer mis necesidades y las de mi pareja.
 
 A partir de ahí es donde tomamos una decisión con la que decidimos ir hacia adelante hasta el día de hoy.
+
+[Link a la parte 2](/posts/2022/03/cómo-me-convertí-en-propietario-parte-2/)
