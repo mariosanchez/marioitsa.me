@@ -37,7 +37,7 @@ Además, es una receta sin complicación que solo requiere la voluntad de querer
 
 1. Cuando tengamos la carne marianda, que ya haya agarrado todos los sabores y aromas, pasamos a la cocción. Yo personalmente uso una slow cooker u olla lenta para hacer mi pulled pork y lo dejo unas 8 horas en potencia alta.
 
-1. Una vez el cerdo este listo lo sacamos de la olla, que tendrá todos los jugos y la grasita en el fondo. Lo ponemos en una fuente o ensaladera y con dos tenedores empezamos a desmigar la carne que debería separarse suavemente.
+1. Una vez el cerdo esté listo lo sacamos de la olla, que tendrá todos los jugos y la grasita en el fondo. Lo ponemos en una fuente o ensaladera y con dos tenedores empezamos a desmigar la carne que debería separarse suavemente.
 
 1. Los jugos que han quedado en la olla podemos utilizarlos directamente, pero a mí me gusta llevármelos a un cazo y dejarlos reducir a fuego medio-alto hasta que espesen y aquí puedo decidir añadir algo extra de salsa barbacoa. Una vez tenga el líquido espesado lo añado a la carne deshilachada con un colador si fuera necesario.
 
@@ -46,7 +46,7 @@ Además, es una receta sin complicación que solo requiere la voluntad de querer
 ### Trucos y consejos
 
 - La carnes que yo suelo utilizar son cuello, paleta o cabeza de lomo, puedes combinarlas o no, incluso añadir algo de costilla.
-- El pulled pork es algo sensacional, a mi me gusta con pan briox, pepinillos agridulces en rodajas, queso y extra de salsa barbacoa, también en simplemente con la clásica ensalada coleslaw. Pero no te limites, echaselo a las hamburguesas (doble gordura), pizzas, tacos, burritos, quesadillas, totopos, baos... ¡Yo he hecho hasta canelones!
+- El pulled pork es algo sensacional, a mi me gusta con pan briox, pepinillos agridulces en rodajas, queso americano y extra de salsa barbacoa, también simplemente con la clásica ensalada coleslaw que le da ese crujiente y ácido que contrasta perfectamente con la suavidad del cerdo. Pero no te limites, échaselo a las hamburguesas (doble gordura), pizzas, tacos, burritos, quesadillas, totopos, baos... ¡Yo he hecho hasta canelones!
 - Si no tienes olla lenta puedes hacerlo también en horno 6 horas a 120 o 4 horas a 150°C. Incluso puedes utilizar una olla express donde no tardarás más de una hora en tenerlo listo. En estos casos quizás necesitarás añadir algo de líquido para que no se reseque (caldo o agua).
 - Las especias que yo empleo son simples pero puedes añadirle las que más te gusten ¡Casi todo le va bien al pulled pork! Ajo en polvo, comino, canela, tomillo, romero... Puedes probar con lo que te guste, incluso atreverte con frutas, como naranja, limón, piña...
 - Puedes añadir un par o tres de cebollas cortadas en juliana al fondo de la olla, será un condimento perfecto.
