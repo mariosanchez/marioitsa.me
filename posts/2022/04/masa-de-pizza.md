@@ -16,7 +16,7 @@ layout: layouts/post.njk
 
 Transcripción de la [receta de Andrea Cannata](https://www.youtube.com/watch?v=-xqdGTKALYs) para hacer masa de pizza en casa, adaptada a mi experiencia y explicada a mi manera. Mi resumen personal para cuando no tengo tiempo para revisitar el vídeo entero.
 
-{{ recipeInfo(rations = 2-3, preparationTime = 40)}}
+{{ recipeInfo(rations = "2-3", preparationTime = "40")}}
 
 {{ recipeIngredients(ingredients = [
   "500 gr harina de fuerza con más de 11gr de proteína por cada 100 (11%)",
