@@ -1,7 +1,7 @@
 ---
 title: Pulled pork
-description: Receta italiana de masa de pizza
-date: 2022-04-13
+description: Receta de pulled pork BBQ
+date: 2022-05-26
 tags:
   - recetas
   - carne
