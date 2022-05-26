@@ -17,7 +17,7 @@ El pulled pork es una receta que me encanta hacer cuando tengo que llevar comida
 De un par de kilos de carne sacas para hacer bastantes sandwichitos perfectos para una comida (o 'sena') de picoteo.
 Además, es una receta sin complicación que solo requiere la voluntad de querer hacerla. Vamos a ello.
 
-{{ recipeInfo(rations = 10-12, preparationTime = 30)}}
+{{ recipeInfo(rations = "10-12", preparationTime = "30")}}
 
 {{ recipeIngredients(ingredients = [
   "2-2.5kg de carne de cerdo magra con algo de grasa",
