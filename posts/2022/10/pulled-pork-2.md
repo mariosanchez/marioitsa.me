@@ -16,7 +16,7 @@ layout: layouts/post.njk
 
 Esta es una nueva versión de [otra receta](/posts/2022/05/pulled-pork/) que publiqué hace unos meses, y que sigue siendo totalmente válida, pero en este caso quiero volver a publicar, ya que me gustaron los resultados de esta última vez que la hice con algunas modificaciones.
 
-{{ recipeInfo(rations = "10-12", preparationTime = "60")}}
+{{ recipeInfo(rations = "10", preparationTime = "60")}}
 
 {{ recipeIngredients(ingredients = [
   "2kg de carne de cabeza de lomo de cerdo",
