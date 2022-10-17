@@ -49,7 +49,7 @@ Esta es una nueva versión de [otra receta](/posts/2022/05/pulled-pork/) que pub
 
 5. Los jugos que han quedado en la olla podemos utilizarlos directamente, pero a mí me gusta llevármelos a un cazo, colándolos con un colador, y dejarlos reducir a fuego medio-alto hasta que espesen y aquí añado 2 cucharadas de salsa barbacoa y 1 de chile chipotle ahumado. Una vez tenga el líquido espesado lo añado a la carne deshilachada.
 
-<a href="https://res.cloudinary.com/dhtvyrgkh/image/upload/c_scale,q_auto:eco,w_1900,y_0/a_-90/v1666003202/gravy_ljvb1a.jpgy" target="_blank">
+<a href="https://res.cloudinary.com/dhtvyrgkh/image/upload/c_scale,q_auto:eco,w_1900,y_0/a_-90/v1666003202/gravy_ljvb1a.jpg" target="_blank">
   <img src="https://res.cloudinary.com/dhtvyrgkh/image/upload/c_scale,q_auto:eco,w_169,y_0/a_-90/v1666003202/gravy_ljvb1a.jpg" />
 </a>
 
