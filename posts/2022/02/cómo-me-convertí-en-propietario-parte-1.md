@@ -34,7 +34,7 @@ Aunque también sigue habiendo ciertos trucos, que tampoco voy a explicar ahora.
 
 ## Mi caso particular
 
-Lo primero, he de reconocer que considero que soy una persona muy privilegiada: Llevo unos 9 años ya independizado (desde que tenía 22) sin pagar el coste de un alquiler o una hipoteca, ya que mis padres me prestaron el piso donde me crie cuando se mudaron a casa de mi abuela para cuidar de ella. Por lo que no he tenido la ocasión ni la necesidad de compartir piso en este tiempo, cosa que no me hubiera disgustado, al mismo tiempo me ha permitido ahorrar cómodamente estos años sin grandes esfuerzos pudiéndome plantear la opción de comprar.
+Lo primero, he de reconocer que considero que soy una persona muy privilegiada: Llevo unos 9 años ya independizado (desde que tenía 22) sin pagar el coste de un alquiler o una hipoteca, ya que mis padres me prestaron el piso donde me crié cuando se mudaron a casa de mi abuela para cuidar de ella. Por lo que no he tenido la ocasión ni la necesidad de compartir piso en este tiempo, cosa que no me hubiera disgustado, al mismo tiempo me ha permitido ahorrar cómodamente estos años sin grandes esfuerzos pudiéndome plantear la opción de comprar.
 
 Pues bien, hace poco más de un año, mi pareja consiguió una muy perseguida estabilidad laboral que nos permitía plantearnos de manera, más o menos despreocupada, salir de la comodidad en la que nos encontrábamos y buscar un espacio nuestro donde poder plantear proyectos más a largo plazo, personalizar a nuestro gusto y que cubriera nuestras necesidades (algunas de ellas nuevas, que la pandemia había descubierto), por lo que ya no se trataba de algo meramente económico, sino que ya entraban en juego otros factores.
 
